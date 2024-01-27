@@ -1,3 +1,5 @@
+### This is a hacky patch on Danfo to make it work with React Native
+Please go to the original package
 
 <div align="center">
   <img src="assets/logo.png"><br>
